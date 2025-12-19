@@ -1,0 +1,14 @@
+# Logs y salidas
+Logs/
+Reports/
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración sensible local
+Config/appsettings.local.json
+
+# PowerShell
+*.psm1.user
